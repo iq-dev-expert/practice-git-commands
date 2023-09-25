@@ -6,6 +6,7 @@ export const App = () => {
       <h3>Goodbay</h3>
 
       <p>More tests, bla bla bla</p>
+      <p>More tests, bla bla bla</p>
     </>
   );
 };
