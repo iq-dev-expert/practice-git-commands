@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/practice-git-commands/static/css/main.7acaea2f.css",
-    "main.js": "/practice-git-commands/static/js/main.5aa335a0.js",
+    "main.js": "/practice-git-commands/static/js/main.3cce39ec.js",
     "index.html": "/practice-git-commands/index.html",
     "main.7acaea2f.css.map": "/practice-git-commands/static/css/main.7acaea2f.css.map",
-    "main.5aa335a0.js.map": "/practice-git-commands/static/js/main.5aa335a0.js.map"
+    "main.3cce39ec.js.map": "/practice-git-commands/static/js/main.3cce39ec.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.5aa335a0.js"
+    "static/js/main.3cce39ec.js"
   ]
 }
