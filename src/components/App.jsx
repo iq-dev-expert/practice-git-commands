@@ -2,7 +2,7 @@ export const App = () => {
   return (
     <>
       <h1>Test</h1>
-      <h2>Hello</h2>
+      <p>Test1</p>
       <h3>Goodbay</h3>
     </>
   );
